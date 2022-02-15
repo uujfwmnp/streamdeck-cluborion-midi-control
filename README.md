@@ -19,9 +19,9 @@ This Stream Deck profile allows you to control the reactive lighting system insi
 4. Click/tap the "Enable MIDI" button to open the MIDI recording/mapping screen
 5. Copy and paste the following string into the "IMPORT STRING" field:
 ```
-*|^0, &60$|^1, &60$|^2, &60$|^3, &60$|^4, &60$|^5, &60$|^6, &60$|^7, &60$|^12, &60$|^14, &60$|^0, &1$|^1, &1$|^2, &1$|^3, &1$|^4, &1$|^5, &1$|^6, &1$|^7, &1$|^8, &1$|^9, &1$|^10, &1$|^11, &1$|^0, &0$|^1, &0$|^3, &0$|^2, &0$|^4, &0$|^15, &60$|^13, &60$|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|EXDEE|%EXDEE%EXDEE%^0, &0$%^1, &0$%^2, &0$%^3, &0$%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%^4, &0$%EXDEE%EXDEE%EXDEE%EXDEE%^5, &0$%^6, &0$%^7, &0$%^8, &0$%*
+*|^0, &60$|^1, &60$|^2, &60$|^3, &60$|^4, &60$|^5, &60$|^6, &60$|^7, &60$|^12, &60$|^14, &60$|^0, &1$|^1, &1$|^2, &1$|^3, &1$|^4, &1$|^5, &1$|^6, &1$|^7, &1$|^8, &1$|^9, &1$|^10, &1$|^11, &1$|^0, &0$|^1, &0$|^3, &0$|^2, &0$|^4, &0$|^15, &60$|^13, &60$|^0, &2$|^1, &2$|^2, &2$|^3, &2$|^4, &2$|^5, &2$|^6, &2$|^7, &2$|^8, &2$|^9, &2$|^10, &2$|^11, &2$|%EXDEE%EXDEE%^0, &0$%^1, &0$%^2, &0$%^3, &0$%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%^4, &0$%EXDEE%EXDEE%EXDEE%EXDEE%^5, &0$%^6, &0$%^7, &0$%^8, &0$%*
 ```
-6. Click/tap the "IMPORT STRING" button. You should see green text appear to tell you it has been successfully imported
+6. Click/tap the "Import (from String)" button. You should see green text appear to tell you it has been successfully imported
 7. Press any button on your Stream Deck, and you should see the change correspond in game.
 8. For changing EQ settings, press and hold to change in one direction. Double tap and hold to change in the opposite direction.
 
