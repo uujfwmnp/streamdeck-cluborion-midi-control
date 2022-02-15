@@ -1,8 +1,16 @@
 # Club Orion Reactive Lighting MIDI Control
-This Stream Deck profile allows you to control the reactive lighting system inside VR Chat's "Club Orion" via MIDI.
+This Stream Deck profile allows you to control the reactive lighting system inside VR Chat's "Club Orion" via MIDI. The following controls are mapped:
+* Lighting animations 1-8
+* All colors, including split colors and their related color cycle buttons
+* All flasher/strobe settings
+* Almost all EQ settings *(band sliders and band gain coming soon)*
+* Blinder strobe
+* Disco ball
+* Blackout toggle
+* Fog Machine! 
 
 ## Requirements:
-* Stream Deck, Stream Deck Mk.2, or Stream Deck XL (will not work on SD Mini or SD Mobile)
+* Stream Deck, Stream Deck Mk.2, or Stream Deck XL (profile will not work on SD Mini or SD Mobile)
 * Stream Deck MIDI plugin
 * LoopMIDI program - https://www.tobias-erichsen.de/software/loopmidi.html
 
