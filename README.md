@@ -24,5 +24,6 @@ This Stream Deck profile allows you to control the reactive lighting system insi
 6. Click/tap the "Import (from String)" button. You should see green text appear to tell you it has been successfully imported
 7. Press any button on your Stream Deck, and you should see the change correspond in game.
 8. For changing EQ settings, press and hold to change in one direction. Double tap and hold to change in the opposite direction.
+9. *(Optional)* "Sync" the page 2 EQ sliders/knobs by holding each button to move the slider to full min or max, then back to in-game default center, then click/tap the "Reset" button.
 
-**Note: Do not rely on just the deck meter icons to tell you where each EQ level is set. VR Chat currently does not send any MIDI data back out.**
+**Note: VR Chat does not currently send MIDI data back out, so the deck meter icons will only be a rough estimate of where each EQ level is set.**
