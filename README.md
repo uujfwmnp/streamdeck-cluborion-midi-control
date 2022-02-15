@@ -27,3 +27,8 @@ This Stream Deck profile allows you to control the reactive lighting system insi
 9. *(Optional)* "Sync" the page 2 EQ sliders/knobs by holding each button to move the slider to full min or max, then back to in-game default center, then click/tap the "Reset" button.
 
 **Note: VR Chat does not currently send MIDI data back out, so the deck meter icons will only be a rough estimate of where each EQ level is set.**
+
+## Troubleshooting
+* Make sure LoopMIDI is running before you launch VR Chat.
+* Make sure you have created the `StreamDeck2DawTrack` port in LoopMIDI.
+* Make sure you have added `--midi=StreamDeck2DawTrack` to the VR Chat launch options, and ensure the spelling is correct.
