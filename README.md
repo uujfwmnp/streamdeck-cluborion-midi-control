@@ -7,7 +7,9 @@ This Stream Deck profile allows you to control the reactive lighting system insi
 * Blinder strobe
 * Disco ball
 * Blackout toggle
-* Fog Machine! 
+* Fog Machine!
+
+There are plenty of blank spots in most pages, if you want to add your own custom MIDI mapping or whatever else you need.
 
 ## Requirements:
 * Stream Deck, Stream Deck Mk.2, or Stream Deck XL (profile will not work on SD Mini or SD Mobile)
