@@ -29,7 +29,7 @@ There are plenty of blank spots in most pages, if you want to add your own custo
 4. Click/tap the "Enable MIDI" button to open the MIDI recording/mapping screen
 5. Copy and paste the following string into the "IMPORT STRING" field:
 ```
-*|^0, &60$|^1, &60$|^2, &60$|^3, &60$|^4, &60$|^5, &60$|^6, &60$|^7, &60$|^12, &60$|^14, &60$|^0, &1$|^1, &1$|^2, &1$|^3, &1$|^4, &1$|^5, &1$|^6, &1$|^7, &1$|^8, &1$|^9, &1$|^10, &1$|^11, &1$|^0, &0$|^1, &0$|^3, &0$|^2, &0$|^4, &0$|^15, &60$|^13, &60$|^0, &2$|^1, &2$|^2, &2$|^3, &2$|^4, &2$|^5, &2$|^6, &2$|^7, &2$|^8, &2$|^9, &2$|^10, &2$|^11, &2$|%EXDEE%^9, &0$%^0, &0$%^1, &0$%^2, &0$%^3, &0$%^0, &1$%^1, &1$%^2, &1$%^3, &1$%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%^4, &0$%^4, &1$%^5, &1$%^6, &1$%^7, &1$%^5, &0$%^6, &0$%^7, &0$%^8, &0$%*
+*|^0, &60$|^1, &60$|^2, &60$|^3, &60$|^4, &60$|^5, &60$|^6, &60$|^7, &60$|^12, &60$|^14, &60$|^0, &1$|^1, &1$|^2, &1$|^3, &1$|^4, &1$|^5, &1$|^6, &1$|^7, &1$|^8, &1$|^9, &1$|^10, &1$|^11, &1$|^0, &0$|^1, &0$|^3, &0$|^2, &0$|^4, &0$|^15, &60$|^13, &60$|^0, &2$|^1, &2$|^2, &2$|^3, &2$|^4, &2$|^5, &2$|^6, &2$|^7, &2$|^8, &2$|^9, &2$|^10, &2$|EXDEE|^0, &3$|^2, &3$|^3, &3$|^1, &3$|^4, &3$|^5, &3$|EXDEE|EXDEE|^9, &3$|EXDEE|^6, &3$|EXDEE|EXDEE|^7, &3$|EXDEE|^10, &3$|EXDEE|^8, &3$|EXDEE|^11, &3$|EXDEE|%EXDEE%^9, &0$%^0, &0$%^1, &0$%^2, &0$%^3, &0$%^0, &1$%^1, &1$%^2, &1$%^3, &1$%EXDEE%EXDEE%EXDEE%EXDEE%EXDEE%^4, &0$%^4, &1$%^5, &1$%^6, &1$%^7, &1$%^5, &0$%^6, &0$%^7, &0$%^8, &0$%EXDEE%EXDEE%*
 ```
 6. Click/tap the "Import (from String)" button. You should see green text appear to tell you it has been successfully imported
 7. Press any button on your Stream Deck, and you should see the change correspond in game.
